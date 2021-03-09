@@ -11,9 +11,9 @@ I am a Data Scientist with a PhD in Process Engineering. I am passionate about a
 - *Data analysis & visualisation*: Numpy, Pandas, Plotly, Streamlit
 - *Machine learning & deep learning*: Keras, TensorFlow
 
-### Things I do for fun
+### Things I do for fun:
   ![Beach](WiDS_beach.png)
-- *Take a swim at the beach
+- Take a swim at the beach
 
 
 
